@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193667870686",
+    "project_id": "g-saba-tsirdava",
+    "storage_bucket": "g-saba-tsirdava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193667870686:android:2149deb5769a4581c5374f",
+        "android_client_info": {
+          "package_name": "com.example.g_sabatsirdava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193667870686-mk5vvsd1v61o9t0qanaojirv97bqv8ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2_57RaYDW4HgK2fypUmqgpBwvqod8xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193667870686-mk5vvsd1v61o9t0qanaojirv97bqv8ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
